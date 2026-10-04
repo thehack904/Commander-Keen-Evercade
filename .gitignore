@@ -1,0 +1,7 @@
+game-data/
+src/Commander-Genius/
+build/
+out/
+*.sav
+*.log
+.DS_Store
